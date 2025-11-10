@@ -96,7 +96,7 @@ Look at `executionStats.totalDocsExamined` and `executionStats.executionTimeMill
 
 Below is a small illustrative image showing a mocked example of `find()` output before and after executing. It demonstrates how `totalDocsExamined` typically drops when a selective index is used.
 
-![image example](./images/find author.PNG)
+![image example](./images/findauthor.PNG)
 ![image example](./images/romance.PNG)
 ![image example](./images/aggregate.PNG)
 
